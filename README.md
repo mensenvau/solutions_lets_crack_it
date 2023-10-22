@@ -10,3 +10,5 @@
 - Day 6 - [Nodes at distance k](https://www.interviewbit.com/problems/nodes-at-distance-k/)
 
 ### Week 2:
+
+- Day 1 - [Rotate Matrix](https://www.interviewbit.com/problems/rotate-matrix/)
