@@ -12,3 +12,4 @@
 ### Week 2:
 
 - Day 1 - [Rotate Matrix](https://www.interviewbit.com/problems/rotate-matrix/)
+- Day 2 - [Merge Intervals](https://www.interviewbit.com/problems/merge-intervals/)
