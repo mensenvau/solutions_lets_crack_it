@@ -13,3 +13,4 @@
 
 - Day 1 - [Rotate Matrix](https://www.interviewbit.com/problems/rotate-matrix/)
 - Day 2 - [Merge Intervals](https://www.interviewbit.com/problems/merge-intervals/)
+- Day 3 - [Merge Overlapping Intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/)
