@@ -96,12 +96,14 @@ vector<vector<string>> Solution::findLadders(string start, string end, vector<st
     vector<vector<int>> mp(n, vector<int>());
 
     for (int i = 0; i < n; i++)
+    {
         for (int j = i + 1; j < n; j++)
             if (check(dict[i], dict[j]))
             {
                 mp[i].push_back(j);
                 mp[j].push_back(i);
             }
+    }
 
     vector<int> lt[n], path;
     run(mp, lt, n, st, et);

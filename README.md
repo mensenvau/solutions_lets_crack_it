@@ -16,3 +16,4 @@
 - Day 3 - [Merge Overlapping Intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/)
 - Day 4 - [Add One To Number](https://www.interviewbit.com/problems/add-one-to-number/)
 - Day 5 - [N/3 Repeat Number](https://www.interviewbit.com/problems/n3-repeat-number/) _(I worked with help.)_
+- Day 6 - [Max Distance](https://www.interviewbit.com/problems/max-distance/) _(I worked with help.)_
