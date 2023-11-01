@@ -1,22 +1,54 @@
-int Solution::maxArea(vector<int> &A)
+struct T
+{
+    int a, b;
+    T(int a, int b)
+        : a(a), b(b)
+    {
+    }
+    bool operator<(const T &p) const
+    {
+        return this->a < p.a;
+    }
+};
+
+int Solution::minimize(const vector<int> &A, const vector<int> &B, const vector<int> &C)
 {
 
-    int l = 0, r = A.size() - 1;
-    int sum = 0, ans = 0;
+    priority_queue<T> pq;
 
-    while (l < r)
+    int ans = INT_MAX;
+    int i = A.size() - 1;
+    int j = B.size() - 1;
+    int k = C.size() - 1;
+    pq.push({A[i], 0});
+    pq.push({B[j], 1});
+    pq.push({C[k], 2});
+
+    while (!pq.empty() && i >= 0 && j >= 0 && k >= 0)
     {
-        sum = min(A[l], A[r]) * (r - l);
-        ans = max(ans, sum);
 
-        if (A[l] < A[r])
+        int sum = max({abs(A[i] - B[j]), abs(B[j] - C[k]), abs(C[k] - A[i])});
+
+        T tr = pq.top();
+        pq.pop();
+
+        if (tr.b == 0)
         {
-            l++;
+            i--;
+            pq.push({A[i], 0});
+        }
+        else if (tr.b == 1)
+        {
+            j--;
+            pq.push({B[j], 1});
         }
         else
         {
-            r--;
+            k--;
+            pq.push({C[k], 2});
         }
+
+        ans = min(ans, sum);
     }
 
     return ans;
