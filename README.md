@@ -23,3 +23,4 @@
 - Day 1 - [Container With Most Water](https://www.interviewbit.com/problems/container-with-most-water/)
 - Day 2 - [Array 3 Pointers](https://www.interviewbit.com/problems/array-3-pointers/) _(I worked with help.)_
 - Day 3 - [Remove Duplicates from Sorted Array](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/)
+- Day 4 - [Different Bits Sum Pairwise](https://www.interviewbit.com/problems/different-bits-sum-pairwise/)
