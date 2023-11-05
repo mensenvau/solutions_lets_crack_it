@@ -1,5 +1,7 @@
 # Let's Crack It!
 
+_Author of the competition: [ULUGBEK ABDIMANABOV](https://t.me/ULUGBEK_ABDIMANABOV)_
+
 ### Week 1:
 
 - Day 1 - [Word ladder II](https://www.interviewbit.com/problems/word-ladder-ii/) _(I worked with help.)_
