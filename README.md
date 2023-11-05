@@ -25,3 +25,4 @@
 - Day 3 - [Remove Duplicates from Sorted Array](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/)
 - Day 4 - [Different Bits Sum Pairwise](https://www.interviewbit.com/problems/different-bits-sum-pairwise/)
 - Day 5 - [Single Number II](https://www.interviewbit.com/problems/single-number-ii/)
+- Day 6 - [Intersection Of Sorted Arrays](https://www.interviewbit.com/problems/intersection-of-sorted-arrays/)
