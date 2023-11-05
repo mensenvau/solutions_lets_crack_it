@@ -27,3 +27,5 @@ int Solution::cntBits(vector<int> &A)
 
     return (2 * sum) % 1000000007;
 }
+
+// add update

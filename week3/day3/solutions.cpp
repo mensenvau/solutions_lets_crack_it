@@ -16,3 +16,5 @@ int Solution::removeDuplicates(vector<int> &A)
     A = B;
     return st.size();
 }
+
+// add update
