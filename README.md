@@ -29,6 +29,6 @@ _Author of the competition: [ULUGBEK ABDIMANABOV](https://t.me/ULUGBEK_ABDIMANAB
 - Day 5 - [Single Number II](https://www.interviewbit.com/problems/single-number-ii/)
 - Day 6 - [Intersection Of Sorted Arrays](https://www.interviewbit.com/problems/intersection-of-sorted-arrays/)
 
-### Week 3:
+### Week 4:
 
 - Day 1 - [All Unique Permutations](https://www.interviewbit.com/problems/all-unique-permutations/)
