@@ -32,3 +32,4 @@ _Author of the competition: [ULUGBEK ABDIMANABOV](https://t.me/ULUGBEK_ABDIMANAB
 ### Week 4:
 
 - Day 1 - [All Unique Permutations](https://www.interviewbit.com/problems/all-unique-permutations/)
+- Day 2 - [NQueens](https://www.interviewbit.com/problems/nqueens/)
