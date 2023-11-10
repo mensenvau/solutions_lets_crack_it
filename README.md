@@ -34,3 +34,6 @@ _Author of the competition: [ULUGBEK ABDIMANABOV](https://t.me/ULUGBEK_ABDIMANAB
 - Day 1 - [All Unique Permutations](https://www.interviewbit.com/problems/all-unique-permutations/)
 - Day 2 - [NQueens](https://www.interviewbit.com/problems/nqueens/)
 - Day 3 - [Palindrome Partitioning](https://www.interviewbit.com/problems/palindrome-partitioning/)
+- Day 4 - [Disjoint Intervals](https://www.interviewbit.com/problems/disjoint-intervals/)
+- Day 5 - [Majority Element](https://www.interviewbit.com/problems/majority-element/)
+- Day 6 -
