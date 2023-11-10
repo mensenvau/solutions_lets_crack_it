@@ -21,3 +21,5 @@ int Solution::majorityElement(const vector<int> &A)
 
     return num;
 }
+
+// add
