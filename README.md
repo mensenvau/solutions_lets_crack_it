@@ -36,4 +36,4 @@ _Author of the competition: [ULUGBEK ABDIMANABOV](https://t.me/ULUGBEK_ABDIMANAB
 - Day 3 - [Palindrome Partitioning](https://www.interviewbit.com/problems/palindrome-partitioning/)
 - Day 4 - [Disjoint Intervals](https://www.interviewbit.com/problems/disjoint-intervals/) _(with help.)_
 - Day 5 - [Majority Element](https://www.interviewbit.com/problems/majority-element/)
-- Day 6 - Last Day.
+- Day 6 - [Meeting rooms](https://www.interviewbit.com/problems/meeting-rooms/)
